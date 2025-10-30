@@ -17,7 +17,7 @@ from datetime import datetime, timedelta
 from collections import deque
 
 # ==================== CONFIG ====================
-BOT_TOKEN = os.getenv("BOT_TOKEN") or "8327686743:AAGD9ssxwIeMZLYc4NcVgVwbVwA3GfdIYaE"
+BOT_TOKEN = os.getenv("BOT_TOKEN") 
 ADMIN_ID = 6102951142
 bot = telebot.TeleBot(BOT_TOKEN, parse_mode="HTML")
 
@@ -27,7 +27,7 @@ DB_FILE = "bot_database.db"
 os.makedirs(NUMBERS_DIR, exist_ok=True)
 
 # API Config
-API_TOKEN = os.getenv("API_TOKEN") or "SFFRRzRSQkmFh1BHRGmYiluVa2RYkJF5fFJiiGOUYXx5dGR5VlKQ"
+API_TOKEN = os.getenv("API_TOKEN") 
 BASE_URL = "http://51.77.216.195/crapi/mait"
 OTP_GROUP_ID = "-1002953319148"
 CHANNEL_LINK = "https://t.me/NomorGoBot"
