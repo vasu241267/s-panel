@@ -90,7 +90,7 @@ MAX_WORKERS_PERSONAL = 10
 SEND_TIMEOUT = 8
 
 active_users = set()
-REQUIRED_CHANNELS = ["@ddxotp", "@vasuhub", "@Nokosxotp", "@Uxotp"]
+REQUIRED_CHANNELS = ["@NomorGo", "@NomorGoNums"]
 
 # ---------------- SQLITE DATABASE ----------------
 def init_database():
