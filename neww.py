@@ -27,7 +27,7 @@ logger = logging.getLogger(__name__)
 
 # ✅ Environment Variables
 BOT_TOKEN = os.getenv("BOT_TOKEN")
-ADMIN_ID = 8195360535
+ADMIN_ID = 6102951142
 USERNAME = os.getenv("USERNAME")
 PASSWORD = os.getenv("PASSWORD")
 
