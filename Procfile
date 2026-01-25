@@ -1,1 +1,1 @@
-web: python metrio.py
+web: python neww.py
