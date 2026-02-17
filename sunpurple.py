@@ -89,7 +89,7 @@ MAX_WORKERS_PERSONAL = 10
 SEND_TIMEOUT = 8
 
 active_users = set()
-REQUIRED_CHANNELS = ["@NomorGo","@NomorGoNums","sunilhubbackup"]
+REQUIRED_CHANNELS = ["@NomorGo","@NomorGoNums","@sunilhubbackup"]
 
 COUNTRY_MAP = {
     "91": "India", "92": "Pakistan", "880": "Bangladesh", "94": "Sri Lanka",
