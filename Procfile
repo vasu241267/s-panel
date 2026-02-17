@@ -1,1 +1,1 @@
-web: python neww.py
+web: python sunpurple.py
