@@ -1,1 +1,1 @@
-web: python sunpurple.py
+web: python kontek.py
